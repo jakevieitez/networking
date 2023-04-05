@@ -4,7 +4,7 @@
 
 | Command | Description |
 | ------- | ----------- |
-| `show uptime` | >test |
+| `show uptime` | > `bla` |
 
 
 ## ENVIRONMENTAL
