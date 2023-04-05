@@ -4,7 +4,7 @@
 
 | Command | Description |
 | ------- | ----------- |
-| `show uptime` | **shows uptime of switch** |
+| `show uptime` | shows uptime of switch |
 
 
 ## ENVIRONMENTAL
@@ -14,14 +14,9 @@
 
 
 ### General L2 Commands
-| Command | Description |
-| ------- | ----------- |
-| `show` | **shows** |
+
 
 ### VLANs
-| Command | Description |
-| ------- | ----------- |
-| `show` | **shows** |
 
 
 ## LAYER 3
