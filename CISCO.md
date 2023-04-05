@@ -1,17 +1,28 @@
 # CISCO COMMANDS FOR IS
 
-## GENERAL
+  ## GENERAL
 
-| Command | Description |
-| ------- | ----------- |
-| `show uptime` | **shows uptime of switch** |
-
-
-## ENVIRONMENTAL
+    | Command | Description |
+    | ------- | ----------- |
+    | `show uptime` | **shows uptime of switch** |
 
 
-## LAYER 2
+  ## ENVIRONMENTAL
+
+
+  ## LAYER 2
+
+
+    ### General L2 Commands
+    | Command | Description |
+    | ------- | ----------- |
+    | `show` | **shows** |
+
+    ### VLANs
+    | Command | Description |
+    | ------- | ----------- |
+    | `show` | **shows** |
 
 
 
-## LAYER 3
+  ## LAYER 3
