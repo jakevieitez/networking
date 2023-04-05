@@ -4,7 +4,7 @@
 
 | Command | Description |
 | ------- | ----------- |
-| `show uptime` | `bla` |
+| `show uptime` | **shows uptime of switch** |
 
 
 ## ENVIRONMENTAL
