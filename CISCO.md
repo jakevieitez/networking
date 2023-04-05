@@ -4,7 +4,7 @@
 
 | Command | Description |
 | ------- | ----------- |
-| `show uptime` | > Shows how long the switch has been online |
+| `show uptime` | >Shows how long the switch has been online |
 
 
 ## ENVIRONMENTAL
