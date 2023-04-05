@@ -17,7 +17,7 @@
 ## LAYER 2
 
 
-### _General_L2_Commands_
+### __General_L2_Commands__
 
 | Command | Description |
 | ------- | ----------- |
